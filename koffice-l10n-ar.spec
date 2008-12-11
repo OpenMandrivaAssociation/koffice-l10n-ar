@@ -1,5 +1,5 @@
 Name: koffice-l10n-ar
-Version: 1.9.98.2
+Version: 1.9.98.3
 Release: %mkrel 1
 Summary: Language files for KOffice Arabic
 Group: System/Internationalization
