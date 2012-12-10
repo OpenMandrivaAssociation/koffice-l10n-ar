@@ -36,3 +36,23 @@ rm -rf %buildroot
 
 %clean
 rm -rf %buildroot
+
+
+%changelog
+* Mon Dec 06 2010 Oden Eriksson <oeriksson@mandriva.com> 1.9.98.5-2mdv2011.0
++ Revision: 612615
+- the mass rebuild of 2010.1 packages
+
+* Sat Jan 17 2009 Funda Wang <fwang@mandriva.org> 1.9.98.5-1mdv2009.1
++ Revision: 330471
+- New version 1.9.98.5
+
+* Thu Dec 11 2008 Funda Wang <fwang@mandriva.org> 1.9.98.3-1mdv2009.1
++ Revision: 312657
+- new version 1.9.98.3
+
+* Thu Nov 20 2008 Funda Wang <fwang@mandriva.org> 1.9.98.2-1mdv2009.1
++ Revision: 305023
+- add source and spec
+- Created package structure for koffice-l10n-ar.
+
