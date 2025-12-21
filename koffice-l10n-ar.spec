@@ -8,6 +8,7 @@ License: GPLv2+
 URL: https://www.koffice.org
 BuildArch: noarch
 Source: ftp://ftp.kde.org/pub/kde/unstable/koffice-%version/src/koffice-l10n/%name-%version.tar.bz2
+BuildRequires:	make
 BuildRequires: gettext >= 0.15
 BuildRequires: kdelibs4-devel
 Requires: locales-ar
